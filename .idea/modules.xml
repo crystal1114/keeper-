@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SVMProj.iml" filepath="$PROJECT_DIR$/SVMProj.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/duaui/duaui.iml" filepath="$PROJECT_DIR$/duaui/duaui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duaui/duaui.iml" filepath="$PROJECT_DIR$/duaui/duaui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keeper-.iml" filepath="$PROJECT_DIR$/keeper-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popup/popup.iml" filepath="$PROJECT_DIR$/popup/popup.iml" />
       <module fileurl="file://$PROJECT_DIR$/popup/popup.iml" filepath="$PROJECT_DIR$/popup/popup.iml" />
     </modules>
   </component>
